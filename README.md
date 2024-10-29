@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guesty3dhbj
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning vbs,lua,c#
+- 🌱 I’m currently learning vbs,python,c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: toaster/air
